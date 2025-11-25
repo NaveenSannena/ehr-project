@@ -28,16 +28,18 @@ The objective is to create a clean, consistent, well-structured dataset used lat
 - ICD-10 prediction  
 - Workflow automation  
 
-1. Data Sources
 ---------------
+
+1. Data Sources
 - Patient records (demographics, medical history)  
 - Medical images (X-ray, MRI, CT, ultrasound, DXA)  
 - Lab reports (blood tests, pathology reports, diagnostics)  
 - Doctor inputs (notes, prescriptions, observations)  
 - Public healthcare datasets (optional)  
 
+---------------
+
 2. Purpose of Data Collection
------------------------------
 - Store patient data in structured digital format  
 - Train AI models for image enhancement  
 - Reduce manual documentation errors  
@@ -45,8 +47,9 @@ The objective is to create a clean, consistent, well-structured dataset used lat
 - Assist ICD-10 mapping  
 - Improve clinical decision-making  
 
+---------------
+
 3. Data Fields
---------------
 Patient_ID — Unique identifier (e.g., P001)  
 Name — Patient's full name  
 Age — Age in years  
@@ -61,15 +64,17 @@ Doctor_Notes — Doctor observations
 Timestamp — Data entry date  
 Data_Status — Verified/AI-Predicted  
 
-4. Data Formats
 ---------------
+
+4. Data Formats
 - Text: Name, Gender, Diagnosis, Doctor Notes  
 - Numeric: Age, Patient ID  
 - Date/Time: DOB, Timestamp  
 - Files: Medical Images (JPG/PNG), Reports (PDF)  
 
+---------------
+
 5. Data Cleaning & Preprocessing
---------------------------------
 - Removed duplicate entries  
 - Corrected DOB/age mismatches  
 - Filled missing fields with NA  
@@ -78,8 +83,9 @@ Data_Status — Verified/AI-Predicted
 - Normalized text fields  
 - Organized dataset into structured folders  
 
+---------------
+
 6. Metadata Codes
------------------
 NA — Data not available  
 AI-Predicted — Suggested by AI  
 Verified — Clinician-validated   
