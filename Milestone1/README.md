@@ -89,16 +89,4 @@ Milestone 1 Summary
 - Dataset structured for AI model training  
 - Ready for image enhancement & documentation automation  
 
-Contributors
-------------
-- Manasvi Bhaskar  
-- Abhishek Kanoujiya
-- M.Navya Sri 
-- Naveen Sannena
-- Sneha Raghuwanshi
-- Bhawana
-- Lokesh
-- Naveen Kumar
-- Ayush 
-- Sai teja
 
