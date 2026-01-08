@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 AI-Enhanced EHR Imaging & Documentation System
-===========================================================
+
 
 Project Overview
 ----------------
@@ -27,7 +27,4 @@ Contributors
 - Lokesh
 - Naveen Kumar
 - Sai teja
-=======
-# ehr-project
-this is my EHR project
->>>>>>> 8629bafc5e741e20a6e5b3da080f6a3201b30efe
+
